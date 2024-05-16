@@ -5,3 +5,5 @@ npm install
 
 npm run dev:weapp
 ```
+
+## 使用示例请看 src\pages\index\index.jsx
